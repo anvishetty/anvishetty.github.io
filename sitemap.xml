@@ -27,4 +27,13 @@
       <image:loc>http://anvishetty.github.io/images/heart.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://anvishetty.github.io/blog.html</loc>
+    <lastmod>2019-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/heart.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
