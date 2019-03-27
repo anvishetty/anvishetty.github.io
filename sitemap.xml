@@ -8,6 +8,18 @@
     <image:image>
       <image:loc>http://anvishetty.github.io/images/heart.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/bf48ec29-6360-4c8e-8bc8-62236b11b944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/img_8751.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/8f717574-8310-4112-857f-03d49847fb03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/img_8752.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://anvishetty.github.io/projects.html</loc>
@@ -29,6 +41,15 @@
   </url>
   <url>
     <loc>http://anvishetty.github.io/blog.html</loc>
+    <lastmod>2019-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anvishetty.github.io/images/heart.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://anvishetty.github.io/goals.html</loc>
     <lastmod>2019-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
