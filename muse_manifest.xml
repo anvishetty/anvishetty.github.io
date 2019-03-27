@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anvishetty.github.io" resolutions="1x" timestamp="1553645624794">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anvishetty.github.io" resolutions="1x" timestamp="1553646451329">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="245092253" ref="index:projects:contact:blog:goals"/>
-    <file name="index.css" crc="3948424681" ref="index"/>
+    <file name="index.css" crc="494290945" ref="index"/>
     <file name="projects.css" crc="4283295574" ref="projects"/>
     <file name="contact.css" crc="123644341" ref="contact"/>
     <file name="blog.css" crc="4208964886" ref="blog"/>
@@ -38,8 +38,14 @@
     <file name="img_8752.jpg" crc="4101174006" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_7ec11e88cda3-1.jpg" crc="416827218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3b14ed06f069-1.jpg" crc="133116344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3822188843" seo="true" mt="1553644374273" redirect="true"/>
+  <file name="index.html" crc="4139157066" seo="true" mt="1553646424673" redirect="true"/>
   <file name="projects.html" crc="504051497" seo="true" mt="1553645611485" redirect="true"/>
   <file name="contact.html" crc="3974313511" seo="true" mt="1553644526535" redirect="true"/>
   <file name="blog.html" crc="67930352" seo="true" mt="1553641964944" redirect="true"/>
