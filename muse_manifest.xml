@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anvishetty.github.io" resolutions="1x" timestamp="1553645507259">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anvishetty.github.io" resolutions="1x" timestamp="1553645624794">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="245092253" ref="index:projects:contact:blog:goals"/>
     <file name="index.css" crc="3948424681" ref="index"/>
-    <file name="projects.css" crc="3874844208" ref="projects"/>
+    <file name="projects.css" crc="4283295574" ref="projects"/>
     <file name="contact.css" crc="123644341" ref="contact"/>
     <file name="blog.css" crc="4208964886" ref="blog"/>
     <file name="goals.css" crc="178482960" ref="goals"/>
@@ -15,7 +15,7 @@
     <file name="museconfig.js" crc="310584261" ref="index:projects:contact:blog:goals"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:projects:contact:blog:goals"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:blog:goals"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:blog:goals"/>
     <file name="require.js" crc="7928878" ref="index:projects:contact:blog:goals"/>
   </folder>
   <folder name="images">
@@ -40,7 +40,7 @@
     </file>
   </folder>
   <file name="index.html" crc="3822188843" seo="true" mt="1553644374273" redirect="true"/>
-  <file name="projects.html" crc="161298946" seo="true" mt="1553644903202" redirect="true"/>
+  <file name="projects.html" crc="504051497" seo="true" mt="1553645611485" redirect="true"/>
   <file name="contact.html" crc="3974313511" seo="true" mt="1553644526535" redirect="true"/>
   <file name="blog.html" crc="67930352" seo="true" mt="1553641964944" redirect="true"/>
   <file name="goals.html" crc="349743458" seo="true" mt="1553643560050" redirect="true"/>
